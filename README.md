@@ -25,8 +25,9 @@ Site desenvolvido apartir com **HTML** e **CSS** para venda de produtos. O proje
 📁 Os arquivos do projeto estão disponíveis na pasta `/site-vendas` deste repositório.
 
 ## Certificações
+## Certificações
 
-- ✅ GitHub Foundations (Microsoft Learn) — [link para o certificado]
+- ✅ [GitHub Foundations (Microsoft Learn)](https://learn.microsoft.com/api/achievements/share/pt-br/EDUARDOCRISTIANMORENODESOUZA-6232/8V56JMYW?sharingId=E5F228FD525463E5)
 
 ## Contato
 
